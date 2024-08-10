@@ -1,7 +1,7 @@
 # Projects-of-Medical-Engineering-Course
 This part is consisted of two projects that are done using Matlab:
 
-The first project is about REM sleep. In this, I have analysed various stages of sleep by studying collected datasets. By taking advantage of Power Spectrum Density of the given time-based data, this analysis is completed. The last part of the project is to guess the stage of two given datasets, by comparing their frequency features with known datasets. Here you can find these two unknown datasets that are plotted based on different bandwidth, along with the guessed stage number. 
+The first project is about REM sleep. In this, I have analyzed various stages of sleep by studying collected datasets. By taking advantage of Power Spectrum Density of the given time-based data, this analysis is completed. The last part of the project is to guess the stage of two given datasets, by comparing their frequency features with known datasets. Here you can find these two unknown datasets that are plotted based on different bandwidth, along with the guessed stage number. 
 
 ![1](https://github.com/user-attachments/assets/2232d7f5-0ad4-499b-9258-38e9076a95d4)
 
