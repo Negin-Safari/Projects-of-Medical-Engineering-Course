@@ -7,7 +7,7 @@ The first project is about REM sleep. In this, I have analyzed various stages of
 
 ![2](https://github.com/user-attachments/assets/9b9ba689-c047-4f6a-be8e-7015e787ee0b)
 
-The second project is about classification of bio-based datasets using machine learning methods. In this project the first dataset contains heart beat sound of people with the labels of normal and abnormal, and the second dataset which is selected by me from "Index of /ml/machine-learning-databases/adult (uci.edu)" contains 15 features of people to dedicate the fact that their weigth is above 50 kg or lower than that. The machine learning methods in here are Tree, KNN, Linear SVM, Quadratic SVM, Logistic Regression, and Ensemble. The first dataset had the best accuracy in classification using KNN, and the second dataset had the best accuracy using Ensemble; and the results can be seen in the following diagrams.
+The second project is about classification of bio-based datasets using machine learning methods. In this project the first dataset contains heartbeat sound of people with the labels of normal and abnormal, and the second dataset which is selected by me from "Index of /ml/machine-learning-databases/adult (uci.edu)" contains 15 features of people to dedicate the fact that their weight is above 50 kg or lower than that. The machine learning methods in here are Tree, KNN, Linear SVM, Quadratic SVM, Logistic Regression, and Ensemble. The first dataset had the best accuracy in classification using KNN, and the second dataset had the best accuracy using Ensemble; and the results can be seen in the following diagrams.
 
 ![11](https://github.com/user-attachments/assets/0d5175a3-bfaa-4c25-bb0c-f2379d4ee6e8)
 
